@@ -1,1 +1,9 @@
+altair
+pandas
 streamlit
+transformers==4.55.2
+torch
+bitsandbytes
+accelerate>=0.26.0
+datasets
+peft
